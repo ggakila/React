@@ -1,6 +1,4 @@
-# cod504cdc9c39cd609ecf2697
-
-Quick start:
+#Quick start:
 
 ```
 $ yarn # npm install
